@@ -1,0 +1,115 @@
+🟢 Phase 1: Python Basics (Weeks 1–2)
+✅ Topics:
+
+Variables, Data Types (int, str, float, bool)
+
+Operators (arithmetic, comparison, logical)
+
+Input & Output
+
+Conditional Statements (if, elif, else)
+
+Loops (for, while)
+
+Basic Functions
+
+🧠 Practice:
+
+Number guessing game
+
+Simple calculator
+
+Student grade checker
+
+🔵 Phase 2: Intermediate Python (Weeks 3–5)
+✅ Topics:
+
+Lists, Tuples, Sets, Dictionaries
+
+Functions (with parameters, return values)
+
+String manipulation
+
+File handling (open, read, write)
+
+Exception handling (try, except)
+
+🧠 Practice:
+
+To-do list app (file-based)
+
+Word frequency counter
+
+Basic contact book using dictionary
+
+🟡 Phase 3: Object-Oriented Programming (Weeks 6–7)
+✅ Topics:
+
+Classes and Objects
+
+Constructors (__init__)
+
+Instance and Class variables
+
+Inheritance, Polymorphism
+
+Encapsulation
+
+🧠 Practice:
+
+Inventory system
+
+Student management system
+
+Bank account simulation
+
+🟠 Phase 4: Advanced Python (Weeks 8–10)
+✅ Topics:
+
+Lambda functions
+
+List Comprehensions
+
+Decorators & Generators
+
+Modules & Packages
+
+Regular Expressions
+
+🧠 Practice:
+
+Email or password validator
+
+Data parser (e.g., log file analyzer)
+
+Custom utility modules
+
+🔴 Phase 5: Projects & Real-World Applications (Weeks 11–15)
+📦 Beginner Projects:
+Quiz app
+
+BMI calculator
+
+Budget tracker
+
+📊 Intermediate Projects:
+Inventory system (with file or JSON storage)
+
+Expense tracker
+
+Weather API app
+
+🕸️ Advanced:
+Web app using Flask or Django
+
+Data analysis using Pandas & Matplotlib
+
+Automation scripts (email sender, file sorter)
+
+🟣 Extra: Tools & Libraries
+Area	Tools to Learn
+Web Development	Flask, Django
+Data Science	NumPy, Pandas, Matplotlib
+Automation	os, shutil, smtplib
+Testing	unittest, pytest
+Version Control	Git & GitHub
